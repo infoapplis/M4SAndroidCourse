@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Chats</string>
+    <string name="action_settings">Configuration</string>
+    <string name="intro_chat">Le chat domestique (nom scientifique : Felis silvestris catus) est un mammifère carnivore de la famille des félidés. C\'est le félin le plus souvent domestiqué ; il conserve tout de même son caractère sauvage beaucoup plus qu\'un chien. Le chat est un carnivore, qui mange de petits rongeurs (souris, mulots) et des oiseaux. Les chats dorment beaucoup, jusqu\'à 16 heures par jour pour un chaton.</string>
+    <string name="desc_chat">Un chat pèse en moyenne entre 2 kg à 4,5 kg et mesure de 46 à 51 cm sans la queue, qui elle, mesure en moyenne 20 à 25 cm. La femelle du chat s\'appelle la chatte et le jeune chat le chaton. Le chat miaule pour se faire entendre, ronronne lorsqu\'il est ému et griffe lorsqu\'on l\'embête ou bien pour chasser. Ses griffes rétractiles peuvent rentrer et sortir à tout moment. Crédit : https://fr.vikidia.org/wiki/Chat</string>
+</resources>
