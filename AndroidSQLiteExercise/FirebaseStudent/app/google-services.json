@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "529747279314",
+    "firebase_url": "https://fir-student-f462b.firebaseio.com",
+    "project_id": "fir-student-f462b",
+    "storage_bucket": "fir-student-f462b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529747279314:android:8ccc2b1d33d9f4e7",
+        "android_client_info": {
+          "package_name": "androidcourse.dev.firebasestudent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529747279314-ti0r857ffe9bt6273f9thb3tprci992u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZEuxizKvt4CpY7wBsvdllDIVwLlS_mBE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
